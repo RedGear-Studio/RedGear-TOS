@@ -6,7 +6,6 @@ This repository contains the terms of service (TOS) for the RedGear organization
 
   - [Code of Conduct](https://github.com/RedGear-Studio/RedGear-TOS/blob/main/CODE_OF_CONDUCT.md)
   - [Contribution Guidelines](https://github.com/RedGear-Studio/RedGear-TOS/blob/main/CONTRIBUTING.md)
-  - [Privacy Policy](https://github.com/RedGear-Studio/RedGear-TOS/blob/main/PRIVACY_POLICY.md)
 
 ## Questions?
 
